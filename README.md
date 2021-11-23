@@ -19,8 +19,8 @@ This is a website built base on the Figma desigen to the [Figma desigen](https:/
 
 ### Links
 
-- Code URL: [Add solution URL here](https://github.com/leomacode/gpt3-official-website)
-- Live Site URL: [Add live site URL here](https://zen-borg-d8002e.netlify.app)
+- Code URL: [code link](https://github.com/leomacode/gpt3-official-website)
+- Live Site URL: [live site](https://zen-borg-d8002e.netlify.app)
 
 ## My process
 
