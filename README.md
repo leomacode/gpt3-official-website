@@ -15,7 +15,7 @@ This is a website built base on the Figma desigen to the [Figma desigen](https:/
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 ### Links
 
