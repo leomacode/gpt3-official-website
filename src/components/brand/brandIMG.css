@@ -1,0 +1,9 @@
+.brand__img {
+  flex: 1;
+  max-width: 9.38rem;
+  min-width: 7.5rem;
+  margin: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

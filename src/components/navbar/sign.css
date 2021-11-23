@@ -1,0 +1,48 @@
+.gpt3__navbar-sign {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.gpt3__navbar-sign p {
+  color: #fff;
+  font-weight: 500;
+  font-size: 1.125rem;
+  line-height: 1.56rem;
+  text-transform: capitalize;
+  margin: 0 1rem;
+}
+
+.gpt3__navbar-sign button {
+  padding: 0.5rem 1rem;
+  background: #ff4820;
+  color: #fff;
+  font-weight: 500;
+  font-size: 1.125rem;
+  border-radius: 0.31rem;
+  border: 0;
+  outline: none;
+  cursor: pointer;
+}
+
+.gpt3__navbar-menu_container-links-sign {
+  display: none;
+}
+
+@media screen and (max-width: 550px) {
+  .gpt3__navbar-sign {
+    display: none;
+  }
+
+  .gpt3__navbar-menu_container-links-sign {
+    display: block;
+  }
+
+  .gpt3__navbar-menu_container-links-sign button {
+    margin-top: 1rem;
+  }
+
+  .gpt3__navbar-menu_container-links-sign p {
+    margin-right: 0;
+  }
+}
