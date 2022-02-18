@@ -2,6 +2,9 @@
   display: flex;
   flex-direction: row;
 }
+.gpt3__navbar-links_container p {
+  margin-inline: 1rem;
+}
 
 .gpt3__navbar-menu_container-links p {
   margin: 1rem 0;
